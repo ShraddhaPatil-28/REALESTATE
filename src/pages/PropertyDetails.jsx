@@ -4,16 +4,16 @@ import { useParams } from "react-router-dom";
 import ImageSlider from "../Components/ImageSlider";
 
 // Images
-import propertyImg from "../assets/images/img_5.jpg";
-import teamImage from "../assets/images/wooden-room.jpg";
-import diningArea from "../assets/images/dining_area.jpg";
-import livingRoom from "../assets/images/living-room.jpg";
-import luxuryHotel from "../assets/images/luxury-Hotel.jpg";
-import modernOffice from "../assets/images/modern-office.jpg";
+import propertyImg from "../assets/images/img5.jpg";
+import teamImage from "../assets/images/woodenroom.jpg";
+import diningArea from "../assets/images/diningarea.jpg";
+import livingRoom from "../assets/images/livingroom.jpg";
+import luxuryHotel from "../assets/images/luxuryhotel.jpg";
+import modernOffice from "../assets/images/modernoffice.jpg";
 import room from "../assets/images/room.jpg";
-import houseGarden from "../assets/images/garden-digital.jpg";
+import houseGarden from "../assets/images/gardendigital.jpg";
 
-import floorImage from "../assets/Images/floor-plan.jpg";
+import floorImage from "../assets/Images/floorsplan.jpg";
 
 // Property Data
 const allProperties = [

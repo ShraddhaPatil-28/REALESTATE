@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { FiPhone, FiMail, FiMapPin, FiSend, FiCheckCircle } from "react-icons/fi";
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 import { GiSparkles } from "react-icons/gi";
-import diningArea from "../assets/images/new-living-room.jpg";
+import diningArea from "../assets/images/newlivingroom.jpg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 

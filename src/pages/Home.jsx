@@ -18,12 +18,12 @@ import {
   FaMoneyCheckAlt,
 } from "react-icons/fa";
 
-import propertyImg from "../assets/Images/img_5.jpg";
-import teamImage from "../assets/Images/wooden-room.jpg";
-import diningArea from "../assets/Images/dining_area.jpg";
-import livingRoom from "../assets/Images/luxury-living-room.jpg";
-import luxuryHotel from "../assets/images/luxury-Hotel.jpg";
-import modernOffice from "../assets/Images/modern-office.jpg";
+import propertyImg from "../assets/Images/img5.jpg";
+import teamImage from "../assets/Images/woodenroom.jpg";
+import diningArea from "../assets/Images/diningarea.jpg";
+import livingRoom from "../assets/Images/luxurylivingroom.jpg";
+import luxuryHotel from "../assets/images/luxuryhotel.jpg";
+import modernOffice from "../assets/Images/modernoffice.jpg";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { Link } from 'react-router-dom'
@@ -230,13 +230,13 @@ const sliderSettings = {
     {/* Left Image & Info Box */}
     <div className="w-full" data-aos="fade-right">
       <img
-        src="src/assets/Images/piechart-cities.jpg"
+        src="src/assets/Images/piechartcities.jpg"
         alt="City skyline and luxury apartments"
         className="w-full h-auto object-cover rounded-lg shadow-lg"
       />
       <div className="bg-gray-100 mt-5 p-5 rounded-lg shadow-sm text-sm leading-relaxed">
         <p className="text-teal-500 font-medium">
-          Your dream home awaits —{" "}
+          Your dream home awaits {" "}
           <span className="text-gray-800 font-semibold">
             experience refined urban living
           </span>{" "}
@@ -267,7 +267,7 @@ const sliderSettings = {
         service, living here means comfort, convenience, and style.
       </p>
       <a
-        href="#"
+        href="/property"
         className="inline-block bg-teal-500 hover:bg-teal-600 transition-all duration-300 
                    text-white px-8 py-3 text-sm font-semibold tracking-wider rounded-lg 
                    shadow-md hover:shadow-lg hover:scale-105"
