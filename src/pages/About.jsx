@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FiTrendingUp } from "react-icons/fi";
-import BuildingExterior from "../assets/images/house-garden.jpg";
+import BuildingExterior from "../assets/Images/house-garden.jpg";
 import LuxuryInterior from "../assets/images/img_5.jpg";
 import Skyscrapers from "../assets/images/dining_area.jpg";
 import bgImage from "../assets/images/modern-room.jpg";
