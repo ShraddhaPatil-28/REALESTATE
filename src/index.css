@@ -1,0 +1,27 @@
+@import "tailwindcss";
+body {
+  overflow-x: hidden;
+}
+
+:root {
+  /* Primary theme colors */
+  --primary: #0d9488;      /* Teal-600 */
+  --secondary: #334155;    /* Slate-700 */
+  --accent: #10b981;       /* Emerald-500 */
+  
+  /* Light & dark variants */
+  --light: #f1f5f9;        /* Slate-100 */
+  --dark: #1e293b;         /* Slate-900 */
+
+  /* Muted / subtle UI elements */
+  --muted: #94a3b8;        /* Slate-400 */
+
+  /* Backgrounds */
+  --background: #f5f5f3;   /* Warm cream */
+  --card: #ffffff;         /* Clean card background */
+  --border: #e2e8f0;       /* Slate-200 */
+
+  /* Text and base */
+  --white: #ffffff;
+  --black: #0f172a;        /* Slate-900 */
+}
