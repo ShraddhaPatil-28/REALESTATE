@@ -4,17 +4,17 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 
 // Images
-import propertyImg from "../assets/images/img_5.jpg";
-import teamImage from "../assets/images/wooden-room.jpg";
-import diningArea from "../assets/images/dining_area.jpg";
-import livingRoom from "../assets/images/living-room.jpg";
-import luxuryHotel from "../assets/images/luxury-Hotel.jpg";
-import modernOffice from "../assets/images/modern-office.jpg";
-import modernRoom from "../assets/images/modern-room.jpg";
-import houseRoom from "../assets/images/house-room.jpg";
-import gardenDigital from "../assets/images/garden-digital.jpg";
+import propertyImg from "../assets/images/img5.jpg";
+import teamImage from "../assets/images/woodenroom.jpg";
+import diningArea from "../assets/images/diningarea.jpg";
+import livingRoom from "../assets/images/livingroom.jpg";
+import luxuryHotel from "../assets/images/luxuryhotel.jpg";
+import modernOffice from "../assets/images/modernoffice.jpg";
+import modernRoom from "../assets/images/modernroom.jpg";
+import houseRoom from "../assets/images/houseroom.jpg";
+import gardenDigital from "../assets/images/gardendigital.jpg";
 import room from "../assets/images/room.jpg";
-import newLivingRoom from "../assets/images/new-living-room.jpg";
+import newLivingRoom from "../assets/images/newlivingroom.jpg";
 import Float from "../components/FloatContaction";
 
 const Gallery = () => {

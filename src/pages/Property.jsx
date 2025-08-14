@@ -1,12 +1,12 @@
 import React, { useEffect } from "react";
-import propertyImg from "../assets/images/img_5.jpg";
-import teamImage from "../assets/images/wooden-room.jpg";
-import diningArea from "../assets/images/dining_area.jpg";
-import livingRoom from "../assets/images/living-room.jpg";
-import luxuryHotel from "../assets/images/luxury-Hotel.jpg";
-import modernOffice from "../assets/images/modern-office.jpg";
+import propertyImg from "../assets/images/img5.jpg";
+import teamImage from "../assets/images/woodenroom.jpg";
+import diningArea from "../assets/images/diningarea.jpg";
+import livingRoom from "../assets/images/livingroom.jpg";
+import luxuryHotel from "../assets/images/luxuryhotel.jpg";
+import modernOffice from "../assets/images/modernoffice.jpg";
 import room from "../assets/images/room.jpg";
-import houseGarden from "../assets/images/house-garden.jpg";
+import houseGarden from "../assets/images/housegarden.jpg";
 import { Link } from "react-router-dom";
 
 import AOS from "aos";

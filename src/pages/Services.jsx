@@ -6,7 +6,7 @@ import { FaWifi, FaUtensils, FaParking, FaSwimmingPool } from "react-icons/fa";
 import { MdKitchen, MdOutlineSpa } from "react-icons/md";
 
 
-import diningArea from "../assets/images/dining_area.jpg";
+import diningArea from "../assets/images/diningarea.jpg";
 
 
 
@@ -15,28 +15,28 @@ const initialServices = [
     title: "High-Speed Wi-Fi",
     icon: <FaWifi size={50} />,
     desc: "Enjoy seamless browsing and streaming with our complimentary high-speed Wi-Fi available throughout the hotel premises.",
-    bgImg: "assets/image/luxury-Hotel.jpg",
+    bgImg: "assets/image/luxuryhotel.jpg",
     color: "#00c0ca",
   },
   {
     title: "Modern Kitchen Appliances",
     icon: <MdKitchen size={50} />,
     desc: "Our suites are equipped with state-of-the-art kitchen appliances, perfect for preparing meals during your extended stay.",
-    bgImg: "assets/image/luxury-Hotel.jpg",
+    bgImg: "assets/image/luxuryhotel.jpg",
     color: "#00c0ca",
   },
   {
     title: "Outdoor BBQ Area",
     icon: <FaUtensils size={50} />,
     desc: "Host friends and family at our beautifully designed outdoor BBQ area, ideal for evening grills and social gatherings.",
-    bgImg: "assets/image/luxury-Hotel.jpg",
+    bgImg: "assets/image/luxuryhotel.jpg",
     color: "#00c0ca",
   },
   {
     title: "Secure Parking Space",
     icon: <FaParking size={50} />,
     desc: "Enjoy peace of mind with our secure on-site parking area, monitored 24/7 for your safety and convenience.",
-    bgImg: "assets/image/luxury-Hotel.jpg",
+    bgImg: "assets/image/luxuryhotel.jpg",
     color: "#00c0ca",
   },
 ];
@@ -46,14 +46,14 @@ const additionalServices = [
     title: "Infinity Swimming Pool",
     icon: <FaSwimmingPool size={50} />,
     desc: "Relax and refresh in our infinity-edge swimming pool with panoramic views and luxurious seating.",
-    bgImg: "assets/image/luxury-Hotel.jpg",
+    bgImg: "assets/image/luxuryhotel.jpg",
     color: "#00c0ca",
   },
   {
     title: "Luxury Spa & Wellness",
     icon: <MdOutlineSpa size={50} />,
     desc: "Rejuvenate with our professional spa treatments, steam rooms, and relaxing massage therapies.",
-    bgImg: "assets/image/luxury-Hotel.jpg",
+    bgImg: "assets/image/luxuryhotel.jpg",
     color: "#00c0ca",
   },
 ];

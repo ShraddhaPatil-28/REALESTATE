@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import { FiTrendingUp } from "react-icons/fi";
-import BuildingExterior from "../assets/Images/house-garden.jpg";
-import LuxuryInterior from "../assets/Images/img_5.jpg";
-import Skyscrapers from "../assets/Images/dining_area.jpg";
-import bgImage from "../assets/images/modern-room.jpg";
-import diningArea from "../assets/Images/luxury-living-room.jpg";
+import BuildingExterior from "../assets/Images/housegarden.jpg";
+import LuxuryInterior from "../assets/Images/img5.jpg";
+import Skyscrapers from "../assets/Images/diningarea.jpg";
+import bgImage from "../assets/images/modernroom.jpg";
+import diningArea from "../assets/Images/luxurylivingroom.jpg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
