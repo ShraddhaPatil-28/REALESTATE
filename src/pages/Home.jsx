@@ -18,7 +18,7 @@ import {
   FaMoneyCheckAlt,
 } from "react-icons/fa";
 
-import propertyImg from "../assets/images/img_5.jpg";
+import propertyImg from "../assets/Images/img_5.jpg";
 import teamImage from "../assets/images/wooden-room.jpg";
 import diningArea from "../assets/images/dining_area.jpg";
 import livingRoom from "../assets/images/living-room.jpg";
